@@ -33,5 +33,10 @@
         "suhu": 35.0,
         "kelembaban": 25.0,
         "waktu": "20:12:27"
+    },
+    {
+        "suhu": 10.0,
+        "kelembaban": 10.0,
+        "waktu": "20:14:51"
     }
 ]
