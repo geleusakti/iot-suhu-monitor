@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "suhu": 10.0,
+        "kelembaban": 20.0,
+        "waktu": "17:43:25"
+    },
+    {
+        "suhu": 21.0,
+        "kelembaban": 12.0,
+        "waktu": "17:43:49"
+    },
+    {
+        "suhu": 10.0,
+        "kelembaban": 20.0,
+        "waktu": "17:46:34"
+    }
+]
